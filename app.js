@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 5005;
 server.use(cors());
 server.use(middlewares);
 server.use(morgan("dev"));
-server.use(router);
+server.use("/api", router); 
 
 server.listen(PORT, () => {
   console.log(`JSON Server is running at port ${PORT}`);

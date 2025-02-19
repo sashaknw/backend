@@ -63,7 +63,7 @@
       "label": "Formaldehyd",
       "format": "Vinyl, 12\"",
       "country": "Germany",
-      "released":1995,
+      "released": 1995,
       "genre": "Electronic",
       "style": "Trance, Hard Trance, House",
       "price": "7.90€",
@@ -436,19 +436,17 @@
     },
     {
       "id": 32,
-     "artist": "X-Ogen",
-    "title": "Trance Requiem / Parallax / Bored Killer / Freeze",
-    "label": "Trance Corp Records",
-    "format": "Vinyl, 12\"",
-    "country": "Switzerland",
-    "released": 1995,
-    "genre": "Electronic",
-    "style": "Hard Trance",
-    "price": "36.98€",
-    "rpm": "33.33 RPM",
-    "image": "/records/32.png"
+      "artist": "X-Ogen",
+      "title": "Trance Requiem / Parallax / Bored Killer / Freeze",
+      "label": "Trance Corp Records",
+      "format": "Vinyl, 12\"",
+      "country": "Switzerland",
+      "released": 1995,
+      "genre": "Electronic",
+      "style": "Hard Trance",
+      "price": "36.98€",
+      "rpm": "33.33 RPM",
+      "image": "/records/32.png"
     }
   ]
 }
-
-  
